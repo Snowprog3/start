@@ -1,2 +1,2 @@
-another file
-change in second-branch
+another file for other_branch
+change for second-branch
